@@ -323,6 +323,8 @@ namespace EFCORE04
                     Console.WriteLine(item.accounts.CrrentBalace);
                     Console.WriteLine(item.OwnershipType);
                     Console.WriteLine(item.AccountStatus);
+
+
                 }
             }
 
